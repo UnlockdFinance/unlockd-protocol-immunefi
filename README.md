@@ -45,9 +45,9 @@ You can join at the [Discord](https://discord.gg/unlockd) channel or at the [Gov
 
 # 📝 Documentation
 
-The documentation of Unlockd Protocol is in the following [Unlockd documentation](https://github.com/UnlockdFinance/unlockd-protocol-v1/blob/development__documentation/Documentation.md) link. At the documentation you can learn more about the protocol, see the contract interfaces, integration guides and audits.
+The documentation of Unlockd Protocol is in the following [Unlockd documentation](https://github.com/UnlockdFinance/unlockd-protocol-immunefi/tree/main/docs) link. At the documentation you can learn more about the protocol, see the contract interfaces, integration guides and audits.
 
-For getting the latest contracts addresses, please check the [Deployed contracts](https://docs.unlockddao.xyz/developers/deployed-contracts) page at the documentation to stay up to date.
+For getting the latest contracts addresses, please check the [Deployed contracts](https://github.com/UnlockdFinance/unlockd-protocol-immunefi/blob/main/docs/deployed-contracts/lendingpool-protocol.md) page at the documentation to stay up to date.
 
 
 # 🎬 Setup
