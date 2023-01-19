@@ -43,7 +43,7 @@ import {ContextUpgradeable} from "@openzeppelin/contracts-upgradeable/utils/Cont
  * - To be covered by a proxy contract, owned by the LendPoolAddressesProvider of the specific market
  * - All admin functions are callable by the LendPoolConfigurator contract defined also in the
  *   LendPoolAddressesProvider
- * @author Unlockd
+ * @author Unlockd - Forked from BendDAO protocol (https://github.com/BendDAO/bend-lending-protocol)
  **/
 // !!! For Upgradable: DO NOT ADJUST Inheritance Order !!!
 contract LendPool is
